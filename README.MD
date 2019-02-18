@@ -163,9 +163,9 @@ __double underscores__
 single asterisks single underscores double asterisks double underscores ++underline++ cancelline
 
 2.8. 이미지
-![Alt text](/path/to/img.jpg)
-![Alt text](/path/to/img.jpg "Optional title")
-석촌호수 러버덕 석촌호수 러버덕
+![사진테스트](https://user-images.githubusercontent.com/45536211/52957679-94dbe380-33d5-11e9-922d-8e99431bc9ac.jpg)
+![사진테스트2](https://user-images.githubusercontent.com/45536211/52957688-986f6a80-33d5-11e9-86c8-db0e9dae5081.jpg)
+사진 테스트
 
 사이즈 조절 기능은 없기 때문에 <img width="" height=""></img>를 이용한다.
 
