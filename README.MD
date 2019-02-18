@@ -72,7 +72,6 @@ This is a H6
 2.2. BlockQuote
 이메일에서 사용하는 > 블럭인용문자를 이용한다.
 
-내부링크참조중..
 #Text test
 
 
