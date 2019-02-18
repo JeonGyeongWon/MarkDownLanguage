@@ -1,5 +1,7 @@
 
 
+
+
 [참고] : https://gist.github.com/ihoneymon/652be052a0727ad59601
 
 전체적인 마크다운언어 알려주는것 현재페이지 보여지는 내용들 
@@ -38,7 +40,7 @@
   
   내부링크 연습 
  
-  [여기를참조하자](#text-test)
+  [여기를참조하자](#text)
   
   
   
@@ -64,7 +66,7 @@ Markdown은 텍스트 기반의 마크업언어로 2004년 존그루버에 의�
 2.1. 헤더Headers
 큰제목: 문서 제목
 
-This is an H1
+<div id="Text">This is an H1</div>
 =============
 This is an H1
 작은제목: 문서 부제목
