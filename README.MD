@@ -1,18 +1,3 @@
-Skip to content
-Search…
-All gists
-Back to GitHub
-New gist
-@JeonGyeongWon 
-430
-231 @ihoneymonihoneymon/gist:652be052a0727ad59601
-Last active 8 hours ago • 
- 
-<script src="https://gist.github.com/ihoneymon/652be052a0727ad59601.js"></script>
-  
- Code  Revisions 7  Stars 430  Forks 231
-마크다운 사용법
- gistfile1.md
 [공통] 마크다운 markdown 작성법
 1. 마크다운에 관하여
 1.1. 마크다운이란?
@@ -203,8 +188,3 @@ View 영역의 항목을 그대로 붙여넣거나 HTML 내보내기 등으로 �
 John gruber 마크다운 번역
 깃허브 취향의 마크다운 번역
 허니몬의 마크다운 작성법
- @DoAJJY
-DoAJJY commented on 11 Jan 2017
-Github 초보자에게 매우 유용한 자료인 것 같습니다!
-많은 도움 받았습니다 :-)
-감사합니다!
