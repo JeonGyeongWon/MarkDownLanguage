@@ -21,7 +21,7 @@
   
   
   내부링크 연습 
-  
+ 
   [여기를참조하자](#text-test)
 
 [공통] 마크다운 markdown 작성법
@@ -72,7 +72,7 @@ This is a H6
 2.2. BlockQuote
 이메일에서 사용하는 > 블럭인용문자를 이용한다.
 
-#Text test
+#Text Test
 
 
 > This is a blockqute.
