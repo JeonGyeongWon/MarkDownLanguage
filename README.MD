@@ -8,6 +8,18 @@
 
 마크다운에서 접기 기능을 하는것 마크다운 자체에는 없기떄문에 html을 이용한다.
 
+<details>
+<summary>접기/펼치기 버튼</summary>
+<div markdown="1">
+
+|제목|내용|
+|--|--|
+|1|1|
+|2|10|
+
+</div>
+</details>
+
 [참고] : https://a1010100z.tistory.com/entry/Markdown-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EB%AC%B8%EC%84%9C-%EB%82%B4%EB%B6%80-%EB%A7%81%ED%81%AC-%EC%9D%B4%EB%8F%99
 
 내가 궁금하던것 내부링크를 걸어서 원하는 위치로 이동하는것 규칙은 다음과같다.
