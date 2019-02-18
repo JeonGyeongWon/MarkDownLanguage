@@ -4,6 +4,10 @@
 
 전체적인 마크다운언어 알려주는것 현재페이지 보여지는 내용들 
 
+[참고] : https://inasie.github.io/it%EC%9D%BC%EB%B0%98/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-expander-control/
+
+마크다운에서 접기 기능을 하는것 마크다운 자체에는 없기떄문에 html을 이용한다.
+
 [참고] : https://a1010100z.tistory.com/entry/Markdown-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EB%AC%B8%EC%84%9C-%EB%82%B4%EB%B6%80-%EB%A7%81%ED%81%AC-%EC%9D%B4%EB%8F%99
 
 내가 궁금하던것 내부링크를 걸어서 원하는 위치로 이동하는것 규칙은 다음과같다.
@@ -23,6 +27,9 @@
   내부링크 연습 
  
   [여기를참조하자](#text-test)
+  
+  
+  
 
 [공통] 마크다운 markdown 작성법
 1. 마크다운에 관하여
